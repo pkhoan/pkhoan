@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hoan PHAM
-- 👀 I’m structural engineer in construction
+- 👀 I’m a structural engineer in construction
 - 🌱 I’m passionate about programming (C++, VB)
 
 <!---
